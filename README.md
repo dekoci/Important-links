@@ -108,3 +108,45 @@ http://www.colorzilla.com/gradient-editor/
 
 http://stackoverflow.com/questions/3900701/onclick-go-full-screen
 
+# Softwares
+
+### Terminal 
+
+https://hyper.is/
+[plugin](https://github.com/bnb/awesome-hyper)
+
+### Editor
+
+https://code.visualstudio.com/
+https://www.sublimetext.com/
+
+### Editor plugin
+
+[Package Control](https://packagecontrol.io/installation)
+
+[Material Theme](https://github.com/equinusocio/material-theme)
+
+[Alignment](https://packagecontrol.io/packages/Alignment)
+
+[Emmet](https://emmet.io/)
+
+### Chrome extensions
+
+[Quick javascript switcher](https://chrome.google.com/webstore/detail/quick-javascript-switcher/geddoclleiomckbhadiaipdggiiccfje?hl=en) Extension ini berguna untuk mematikan javascript website yang sedang kita buka.
+
+[var_masterpiece](https://chrome.google.com/webstore/detail/varmasterpiece/chfhddogiigmfpkcmgfpolalagdcamkl?hl=en) Extension ini berguna untuk developer yang kesulitan melihat hasil return object dan array yang ditampilkan browser, extension ini merapihkan sehingga mudah dilihat mata.
+
+[Screencastify](https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn?hl=en) Extension ini berguna untuk mereka video browser, biasa digunakan untuk membuat dokumentasi atau tutorial.
+
+[Zenmate VPN](https://chrome.google.com/webstore/detail/zenmate-vpn-best-cyber-se/fdcgdnkidjaadafnichfpabhfomcebme?hl=en) Extension ini berguna untuk memanipulasi ip address kita ketika berkunjung ke website.
+
+[Flash Video Downloader](https://chrome.google.com/webstore/detail/flash-video-downloader/aiimdkdngfcipjohbjenkahhlhccpdbc?hl=en) Extension ini berguna untuk mendownload video, list video akan ditampilkan sesuai dengan page yang kita buka
+
+### FTP 
+
+https://cyberduck.io/?l=en
+
+### Git dengan GUI
+
+https://www.sourcetreeapp.com/
+
