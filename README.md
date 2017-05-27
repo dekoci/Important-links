@@ -66,7 +66,7 @@ $(window).on("touchstart", function(event) {
 ```
 
 Penjelasan code di atas, untungnya kita bisa mendapatkan event touchstart bahkan ketika kita menekan tombol keyboard di mobile. 
-Maka kita cek kota input yang ingin kita awasi, lalu cek setiap string yang masuk apakah terdapat spasi atau tidak dengan menggunakan function [jQuery indexOf](https://www.w3schools.com/jsref/jsref_indexof.asp).
+Maka kita cek kotak input yang ingin kita awasi, lalu cek setiap string yang masuk apakah terdapat spasi atau tidak dengan menggunakan function [jQuery indexOf](https://www.w3schools.com/jsref/jsref_indexof.asp).
 
 ### Cara menghilangkan a link highlight color di Mobile ketika di tap
 
