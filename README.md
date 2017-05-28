@@ -9,6 +9,7 @@ Repository ini hanya memberikan informasi-informasi seperti
 
 - [Tips and tricks](#tipsandtricks)
 - [Important Links](#importantlinks)
+- [Framework](#framework)
 - [Softwares](#softwares)
 
 # Tipsandtricks
@@ -149,4 +150,25 @@ https://cyberduck.io/?l=en
 ### Git dengan GUI
 
 https://www.sourcetreeapp.com/
+
+# Framework
+
+### PHP
+
+[Laravel](https://laravel.com/)
+
+### Css
+
+[Foundation](http://foundation.zurb.com/)
+[Materializecss](http://materializecss.com/)
+
+### Javascript
+
+[jQuery](https://jquery.com/)
+
+[Lodash](https://lodash.com/)
+
+[jQuery UI](https://jqueryui.com/)
+
+
 
