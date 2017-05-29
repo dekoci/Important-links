@@ -77,21 +77,14 @@ Maka kita cek kotak input yang ingin kita awasi, lalu cek setiap string yang mas
 
 # Important link
 
-### [Mengubah PNG ke SVG](http://www.online-convert.com/result/35c9d026a93397d4f529fd15f6ec3669)
-
-### [Favicon generator](http://www.favicon-generator.org/)
-
-### [Membuat Sprites dari beberapa gambar](http://spritegen.website-performance.org/)
-
-### [Font converter](https://onlinefontconverter.com/)
-
-### [Css animation generator](http://cssanimate.com/)
-
-### [Membuat GIF dari gambar](http://gifcreator.me/)
-
-### [Membuat background-color gradient](http://www.colorzilla.com/gradient-editor/)
-
-### [Membuat function fullscreen browser pada button tanpa F11](http://stackoverflow.com/questions/3900701/onclick-go-full-screen)
+- [Mengubah PNG ke SVG](http://www.online-convert.com/result/35c9d026a93397d4f529fd15f6ec3669)
+- [Favicon generator](http://www.favicon-generator.org/)
+- [Membuat Sprites dari beberapa gambar](http://spritegen.website-performance.org/)
+- [Font converter](https://onlinefontconverter.com/)
+- [Css animation generator](http://cssanimate.com/)
+- [Membuat GIF dari gambar](http://gifcreator.me/)
+- [Membuat background-color gradient](http://www.colorzilla.com/gradient-editor/)
+- [Membuat function fullscreen browser pada button tanpa F11](http://stackoverflow.com/questions/3900701/onclick-go-full-screen)
 
 # Software
 
