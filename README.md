@@ -38,7 +38,7 @@ Repository ini memberikan informasi-informasi seperti
   - Kalau untuk hp Samsung ke about device > software info > build number.
   - Kalau untuk hp Xiaomi ke about phone > MIUI version.
 1. Tap terus menerus hingga muncul 'You are now a developer' dan akan muncul menu baru Developer Options di halaman settings.
-1. Pergilah ke **Developer** options lalu centang USB debugging.
+1. Pergilah ke **Developer options** lalu centang USB debugging.
 1. Sambungkan hp-mu ke komputer dengan menggunakan kabel charger USB.
 1. Buka halaman yang ingin di inspect elementnya di hp-mu dengan browser Chrome.
 1. Lalu di browser Chrome desktop-mu, ketik `chrome://inspect#devices`.
@@ -85,6 +85,7 @@ Maka kita cek kotak input yang ingin kita awasi, lalu cek setiap string yang mas
 - [Membuat GIF dari gambar](http://gifcreator.me/)
 - [Membuat background-color gradient](http://www.colorzilla.com/gradient-editor/)
 - [Membuat function fullscreen browser pada button tanpa F11](http://stackoverflow.com/questions/3900701/onclick-go-full-screen)
+- [Membuat element tengah secara horizontal maupun vertical](https://css-tricks.com/centering-css-complete-guide/)
 
 # Software
 
