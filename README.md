@@ -119,6 +119,7 @@ https://hyper.is/
 ### Editor
 
 https://code.visualstudio.com/
+
 https://www.sublimetext.com/
 
 ### Editor plugin
