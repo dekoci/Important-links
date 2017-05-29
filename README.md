@@ -1,4 +1,4 @@
-# Important-links (Bahasa)
+# dekoci Playground (Bahasa)
 
 Repository ini memberikan informasi-informasi seperti
 - Tips and trik yang biasa saya gunakan
@@ -7,10 +7,10 @@ Repository ini memberikan informasi-informasi seperti
 
 # Konten
 
-- [Tips and tricks](#tips-and-tricks)
-- [Important Link](#important-link)
-- [Framework](#framework)
-- [Software](#software)
+1. [Tips and tricks](#tips-and-tricks)
+1. [Important Link](#important-link)
+1. [Framework](#framework)
+1. [Software](#software)
 
 # Tips and tricks
 
@@ -34,22 +34,22 @@ Repository ini memberikan informasi-informasi seperti
   
 ### Cara melakukan inspect element Chrome di handphone (Android saja)
 
-- Pertama kita harus mengaktifkan developer options di hp.
+1. Pertama kita harus mengaktifkan developer options di hp.
   - Kalau untuk hp Samsung ke about device > software info > build number.
   - Kalau untuk hp Xiaomi ke about phone > MIUI version.
-- Tap terus menerus hingga muncul 'You are now a developer' dan akan muncul menu baru Developer Options di halaman settings.
-- Pergilah ke Developer options lalu centang USB debugging.
-- Sambungkan hp-mu ke komputer dengan menggunakan kabel charger USB.
-- Buka halaman yang ingin di inspect elementnya di hp-mu dengan browser Chrome.
-- Lalu di browser Chrome desktop-mu, ketik `chrome://inspect#devices`.
-- Jika hp-mu muncul 'PC with mac address xx:xx:xx will access your smartphone' maka kamu sudah berhasil. Lalu tap Yes.
-- Otomatis di browser Chrome desktop-mu akan muncul list page beserta link yang sedang terbuka di hp-mu dengan tombol **inspect**, **focus tab**, **reload** dan **close**.
+1. Tap terus menerus hingga muncul 'You are now a developer' dan akan muncul menu baru Developer Options di halaman settings.
+1. Pergilah ke **Developer** options lalu centang USB debugging.
+1. Sambungkan hp-mu ke komputer dengan menggunakan kabel charger USB.
+1. Buka halaman yang ingin di inspect elementnya di hp-mu dengan browser Chrome.
+1. Lalu di browser Chrome desktop-mu, ketik `chrome://inspect#devices`.
+1. Jika hp-mu muncul 'PC with mac address xx:xx:xx will access your smartphone' maka kamu sudah berhasil. Lalu tap Yes.
+1. Otomatis di browser Chrome desktop-mu akan muncul list page beserta link yang sedang terbuka di hp-mu dengan tombol **inspect**, **focus tab**, **reload** dan **close**.
 
 ### Solusi untuk event keyup SPASI tidak terdeksi untuk keyboard mobile (Android+Chrome)
 
 Seperti yang kita tahu, setiap kita menekan jenis huruf / kata di keyboard maka akan me-return keyCode(int).
 SPASI harusnya mereturn keycode 32, tapi di mobile kita akan mendapatkan keycode 229.
-Jadi saya sudah menemukan solusi dengan mencontek kode di https://10fastfingers.com/
+Jadi saya sudah menemukan solusi dengan mencontek kode di [10fastfingers.com](https://10fastfingers.com/)
 
 ```javascript
 var android_spacebar = 0;
@@ -79,35 +79,35 @@ Maka kita cek kotak input yang ingin kita awasi, lalu cek setiap string yang mas
 
 ### Mengubah PNG ke SVG
 
-http://www.online-convert.com/result/35c9d026a93397d4f529fd15f6ec3669
+[online-convert.com](http://www.online-convert.com/result/35c9d026a93397d4f529fd15f6ec3669)
 
 ### Favicon generator
 
-http://www.favicon-generator.org/
+[favicon-generator.org](http://www.favicon-generator.org/)
 
 ### Membuat Sprites dari beberapa gambar
 
-http://spritegen.website-performance.org/
+[spritegen.website-performance.org](http://spritegen.website-performance.org/)
 
 ### Font converter
 
-https://onlinefontconverter.com/
+[onlinefontconverter.com](https://onlinefontconverter.com/)
 
 ### Css animation generator
 
-http://cssanimate.com/
+[cssanimate.com](http://cssanimate.com/)
 
 ### Membuat GIF dari gambar
 
-http://gifcreator.me/
+[gifcreator.me](http://gifcreator.me/)
 
 ### Membuat background-color gradient
 
-http://www.colorzilla.com/gradient-editor/
+[colorzilla](ttp://www.colorzilla.com/gradient-editor/)
 
 ### Membuat function fullscreen browser pada button tanpa F11
 
-http://stackoverflow.com/questions/3900701/onclick-go-full-screen
+[stackoverflow.com](http://stackoverflow.com/questions/3900701/onclick-go-full-screen)
 
 # Software
 
@@ -123,8 +123,8 @@ http://stackoverflow.com/questions/3900701/onclick-go-full-screen
 
 ### Editor
 
-- https://code.visualstudio.com/
-- https://www.sublimetext.com/
+- [Vscode](https://code.visualstudio.com/)
+- [Sublime Text](https://www.sublimetext.com/)
 
 ### Editor plugin
 
@@ -135,11 +135,11 @@ http://stackoverflow.com/questions/3900701/onclick-go-full-screen
 
 ### Chrome extensions
 
-- [Quick javascript switcher](https://chrome.google.com/webstore/detail/quick-javascript-switcher/geddoclleiomckbhadiaipdggiiccfje?hl=en) Extension ini berguna untuk mematikan javascript website yang sedang kita buka.
-- [var_masterpiece](https://chrome.google.com/webstore/detail/varmasterpiece/chfhddogiigmfpkcmgfpolalagdcamkl?hl=en) Extension ini berguna untuk developer yang kesulitan melihat hasil return object dan array yang ditampilkan browser, extension ini merapihkan sehingga mudah dilihat mata.
-- [Screencastify](https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn?hl=en) Extension ini berguna untuk merekam video di browser, biasa digunakan untuk membuat dokumentasi atau tutorial.
-- [Zenmate VPN](https://chrome.google.com/webstore/detail/zenmate-vpn-best-cyber-se/fdcgdnkidjaadafnichfpabhfomcebme?hl=en) Extension ini berguna untuk memanipulasi ip address kita ketika berkunjung ke website.
-- [Flash Video Downloader](https://chrome.google.com/webstore/detail/flash-video-downloader/aiimdkdngfcipjohbjenkahhlhccpdbc?hl=en) Extension ini berguna untuk mendownload video, list video akan ditampilkan sesuai dengan page yang kita buka
+- [Quick javascript switcher](https://chrome.google.com/webstore/detail/quick-javascript-switcher/geddoclleiomckbhadiaipdggiiccfje?hl=en) Toggle javascript pada browser
+- [var_masterpiece](https://chrome.google.com/webstore/detail/varmasterpiece/chfhddogiigmfpkcmgfpolalagdcamkl?hl=en) Mempercantik hasil return object dan array di browser
+- [Screencastify](https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn?hl=en) Merekam seluruh/sebagian layar browser
+- [Zenmate VPN](https://chrome.google.com/webstore/detail/zenmate-vpn-best-cyber-se/fdcgdnkidjaadafnichfpabhfomcebme?hl=en) Memanipulasi ip address ketika berkunjung ke website
+- [Flash Video Downloader](https://chrome.google.com/webstore/detail/flash-video-downloader/aiimdkdngfcipjohbjenkahhlhccpdbc?hl=en) Untuk mendownload video di page yang sedang dibuka
 
 ### FTP 
 
@@ -167,6 +167,4 @@ http://stackoverflow.com/questions/3900701/onclick-go-full-screen
 - [Lodash](https://lodash.com/)
 - [jQuery UI](https://jqueryui.com/)
 - [Anime.js](http://anime-js.com/)
-
-
-
+- [Socket.io](https://socket.io/)
