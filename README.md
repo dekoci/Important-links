@@ -1,6 +1,6 @@
-# dekoci Playground (Bahasa)
+# dekoci Workplace (Bahasa)
 
-Repository ini memberikan informasi-informasi seperti
+Repo ini memberikan informasi-informasi seperti
 - Tips and trik yang biasa saya gunakan
 - Link dan framework yang berguna untuk development
 - Software yang biasa saya gunakan
