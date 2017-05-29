@@ -103,7 +103,7 @@ Maka kita cek kotak input yang ingin kita awasi, lalu cek setiap string yang mas
 
 ### Membuat background-color gradient
 
-[colorzilla](ttp://www.colorzilla.com/gradient-editor/)
+[colorzilla](http://www.colorzilla.com/gradient-editor/)
 
 ### Membuat function fullscreen browser pada button tanpa F11
 
